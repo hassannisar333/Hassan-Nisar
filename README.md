@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **hassannisar330@gmail.com** For Projects or Collaboration.
 - ⚡ **Fun fact:** I love technology, and technology loves me!
   
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihassannisar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hassannisar_017)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-nisar-753161325)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassannisar330@gmail.com)
 
